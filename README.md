@@ -19,4 +19,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AKASHVU494/LeetCode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/AKASHVU494/LeetCode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AKASHVU494/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
