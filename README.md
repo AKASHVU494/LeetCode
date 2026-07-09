@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/AKASHVU494/LeetCode/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/AKASHVU494/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
