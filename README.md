@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AKASHVU494/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AKASHVU494/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AKASHVU494/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKASHVU494/LeetCode/tree/master/0242-valid-anagram) |
 ## Array
@@ -23,6 +24,7 @@
 | [0001-two-sum](https://github.com/AKASHVU494/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AKASHVU494/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AKASHVU494/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AKASHVU494/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AKASHVU494/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AKASHVU494/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/AKASHVU494/LeetCode/tree/master/0704-binary-search) |
@@ -39,6 +41,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AKASHVU494/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AKASHVU494/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AKASHVU494/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/AKASHVU494/LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
