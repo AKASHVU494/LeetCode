@@ -28,6 +28,7 @@
 | [0015-3sum](https://github.com/AKASHVU494/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AKASHVU494/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AKASHVU494/LeetCode/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/AKASHVU494/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AKASHVU494/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AKASHVU494/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/AKASHVU494/LeetCode/tree/master/0704-binary-search) |
@@ -55,5 +56,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/AKASHVU494/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AKASHVU494/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
